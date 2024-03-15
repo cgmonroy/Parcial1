@@ -12,10 +12,10 @@ const VehicleList = () => {
 
 
       <div className="card mb-2">
-          <img src=".jpg" className="card-img-top" alt="Car" />
+          <img src="parcial1\src\Imagenes\112e3.PNG" className="card-img-top" alt="Fotico" />
         </div>
 
-        
+
       <table className="table table-striped">
         <thead>
           <tr>

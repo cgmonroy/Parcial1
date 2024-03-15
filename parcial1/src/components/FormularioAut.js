@@ -21,7 +21,7 @@ function FormularioAut() {
 
 
         <div className="card mb-2">
-          <img src=".jpg" className="card-img-top" alt="Car" />
+          <img src=".\Imagenes\112e3.jpg" className="card-img-top" alt="Fotico" />
         </div>
   
         <div className="card mb-2 mx-auto custom-card">
@@ -45,7 +45,7 @@ function FormularioAut() {
 
 
 
-  
+
         <div className="card ">
           <div className="card-footer text-muted">
             Contact us: +57 3102105253 - info@tusegundazo.com - @tusegundazo
